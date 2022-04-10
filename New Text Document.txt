@@ -1,0 +1,4 @@
+Font: Segoe UI
+
+Color1: #1376B9
+Color2: #FEC64A
